@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+![Screenshot (410)](https://github.com/sachin04444/Game-with-next-js/assets/110024679/6eee4a59-7745-4745-8740-45fc2430daba)
+
 First, run the development server:
 
 ```bash
